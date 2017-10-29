@@ -1,2 +1,2 @@
 # Web-project
-This web application project is basically portfolio type which I managed, design and developed using most prominent front end development tools. This project required only front-end development using HTML, CSS-Bootstrap, JavaScript and Ajax for designing, animation and form handling for feedbacks. Google API was used for fetching the map location.
+Two web applications were developed as a portfolio type, the website for InnerWheel Club of Durbar Square involved both frontend and backend development while redeveloping the website for Endeavor Pvt. Ltd for the company required only frontend development.
